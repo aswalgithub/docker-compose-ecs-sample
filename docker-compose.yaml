@@ -18,8 +18,7 @@ services:
     restart: always
     secrets:
       - db-password
-    # ports:
-    #   - 5000:5000
+   
     networks:
       - backnet
       - frontnet

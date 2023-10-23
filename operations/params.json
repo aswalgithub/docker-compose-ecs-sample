@@ -1,0 +1,1 @@
+[{ParameterKey:DockerPullSecretsManagerArn,ParameterValue:${dockerhubaccesstoken}},{ ParameterKey:GitHubOwner,ParameterValue:'aswalgithub'}] 
