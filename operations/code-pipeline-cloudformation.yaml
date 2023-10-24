@@ -49,6 +49,7 @@ Resources:
                   - 'logs:DescribeLogGroup'
                   - 'logs:FilterLogEvents'
                   - 'logs:DeleteLogGroup'
+                  - 'logs:TagResource'
                 Resource:
                   - '*'
               - Sid: S3GetObjectPolicy
